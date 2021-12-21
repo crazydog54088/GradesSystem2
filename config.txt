@@ -1,0 +1,4 @@
+since: 109
+year: 110
+databasePath: .\Database\
+automation_setYear: true
